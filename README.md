@@ -1,3 +1,3 @@
 # UVM Sandbox
 
-Playing with UVM using SystemVerilog.
+Setup environment to play with UVM using SystemVerilog.
